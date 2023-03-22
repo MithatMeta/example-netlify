@@ -6,6 +6,7 @@ import User from "./components/User";
 function App() {
   return(
     <div>
+      <h1>netlify değişiklik</h1>
       
       <User  
         name="Mithat" 
